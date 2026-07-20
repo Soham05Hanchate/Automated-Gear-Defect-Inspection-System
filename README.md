@@ -87,3 +87,5 @@ Model training
 Deployment for real-time inference
 
 It serves as a strong foundation for extending the system to industrial, surveillance, or smart automation applications.
+
+This project was built by a team consisting of Soham Hanchate, Ronak Shah, Rishabh Sharma and Shravan Lingayat
